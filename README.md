@@ -10,4 +10,6 @@ A working system can be obtained by downloading just the file: docker-nginx-node
 4. run "docker-compose up -d"
 5. Take your browser to "http://localhost/index.html"
 
+The Wiki contains a collection of videos that show the application in action.
+
 ![screenshot](public/screenshot.png)
