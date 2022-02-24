@@ -2,4 +2,4 @@ A React application I developed as a project for my university course on Web Dev
 
 The webservice was developed using NodeJS while the database that was used is MySQL.
 
-![screenshot](./Public/screenshot.png)
+![screenshot](public/screenshot.png)
